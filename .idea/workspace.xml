@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7024991b-0e35-4869-8e2d-fd5d9143c42c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_06.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_07.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_05.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_06.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Blink/BlinkDisplay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Blink/BlinkPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenEvent.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenEventDesktop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenGallery.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenGalleryDesktop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenHome.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenHomeDesktop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenWineBottle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/Chicago1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/Chicago2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/Chicago3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/ChicagoPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Choice/ChoicePamplet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Choice/ChoicePortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Dungeon/DungeonDisplay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Dungeon/DungeonPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAADisplay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAAPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAATrophyDisplay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAATrophyPoster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightDesktop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightLaptop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightMobile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightTablet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Blink1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Blink2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Choice1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Choice2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Dungeon1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Dungeon2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/HomePagejpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Strangers1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Strangers2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Strangers3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Westbound1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Westbound2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Strangers/StrangersB&amp;W.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Strangers/StrangersDisplay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Strangers/StrangersPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Westbound/WestboundBillboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Westbound/WestboundPortfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/background/CCPBackground.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/background/CCPHomeBackground.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aws.config.example.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/model/AppProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/view/AppMediator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/view/GalleryMediator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/15.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/18.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/19.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/20.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/21.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/22.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/23.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/24.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/25.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/26.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/27.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/28.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/29.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/30.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/31.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/32.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/33.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/9.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/refreshCloudFront.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/s3.exclude" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sync_s3.sh" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/arrows/Left-Arrow.png" afterPath="$PROJECT_DIR$/Images/arrows/left_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/arrows/Right-Arrow.png" afterPath="$PROJECT_DIR$/Images/arrows/right_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/home/CCPHomeIllustration.png" afterPath="$PROJECT_DIR$/Images/home/cc_home_illustration.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/desktop.css" afterPath="$PROJECT_DIR$/css/desktop.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="Carin-Camen-Portfolio.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Carin-Camen-Portfolio" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8194946" vertical-offset="39" max-vertical-offset="870">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_01.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_02.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_03.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_03.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_04.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_04.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_05.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_05.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_06.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_06.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digital_art_07.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digital_art_07.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/digital_art_07.html" />
+        <option value="$PROJECT_DIR$/painting_01.html" />
+        <option value="$PROJECT_DIR$/painting_02.html" />
+        <option value="$PROJECT_DIR$/painting_04.html" />
+        <option value="$PROJECT_DIR$/painting_05.html" />
+        <option value="$PROJECT_DIR$/painting_06.html" />
+        <option value="$PROJECT_DIR$/painting_03.html" />
+        <option value="$PROJECT_DIR$/drawing_09.html" />
+        <option value="$PROJECT_DIR$/drawing_08.html" />
+        <option value="$PROJECT_DIR$/drawing_07.html" />
+        <option value="$PROJECT_DIR$/drawing_01.html" />
+        <option value="$PROJECT_DIR$/drawing_02.html" />
+        <option value="$PROJECT_DIR$/drawing_03.html" />
+        <option value="$PROJECT_DIR$/drawing_04.html" />
+        <option value="$PROJECT_DIR$/drawing_05.html" />
+        <option value="$PROJECT_DIR$/drawing_06.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="133" />
+    <option name="y" value="36" />
+    <option name="width" value="1433" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carin_camen_portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carin_camen_portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carin_camen_portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="digital_art" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carin_camen_portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images/digital_art" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7024991b-0e35-4869-8e2d-fd5d9143c42c" name="Default" comment="" />
+      <created>1361027867948</created>
+      <updated>1361027867948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="133" y="36" width="1433" height="975" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24773203" sideWeight="0.6706444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="870">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="870">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="0">
+          <caret line="20" column="124" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80665815" vertical-offset="0" max-vertical-offset="0">
+          <caret line="42" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3841229" vertical-offset="0" max-vertical-offset="0">
+          <caret line="20" column="124" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13200498" vertical-offset="0" max-vertical-offset="0">
+          <caret line="20" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16811955" vertical-offset="0" max-vertical-offset="0">
+          <caret line="20" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31755915" vertical-offset="0" max-vertical-offset="0">
+          <caret line="17" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28019926" vertical-offset="0" max-vertical-offset="0">
+          <caret line="18" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3362391" vertical-offset="0" max-vertical-offset="0">
+          <caret line="18" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digital_art_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8194946" vertical-offset="39" max-vertical-offset="870">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
