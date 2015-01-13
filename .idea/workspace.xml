@@ -2,147 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7024991b-0e35-4869-8e2d-fd5d9143c42c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/digital_art_07.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_07.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_08.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawing_09.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fashion_design_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painting_06.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Blink/BlinkDisplay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Blink/BlinkPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenEvent.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenEventDesktop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenGallery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenGalleryDesktop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenHome.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenHomeDesktop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Cariluzen/CariluzenWineBottle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/Chicago1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/Chicago2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/Chicago3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Chicago/ChicagoPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Choice/ChoicePamplet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Choice/ChoicePortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Dungeon/DungeonDisplay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Dungeon/DungeonPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAADisplay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAAPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAATrophyDisplay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LEAA/LEAATrophyPoster.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightDesktop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightLaptop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightMobile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Midnight/MidnightTablet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Blink1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Blink2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Cariluzen8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Chicago4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Choice1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Choice2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Dungeon1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Dungeon2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/HomePagejpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/LEAA4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Midnight5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Strangers1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Strangers2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Strangers3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Westbound1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/ScreenShots/Westbound2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Strangers/StrangersB&amp;W.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Strangers/StrangersDisplay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Strangers/StrangersPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Westbound/WestboundBillboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/Westbound/WestboundPortfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/background/CCPBackground.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/background/CCPHomeBackground.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aws.config.example.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/model/AppProxy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/view/AppMediator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/view/GalleryMediator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/17.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/18.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/19.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/20.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/21.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/22.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/23.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/24.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/25.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/26.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/27.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/28.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/29.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/30.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/31.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/32.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/33.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/refreshCloudFront.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/s3.exclude" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sync_s3.sh" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/arrows/Left-Arrow.png" afterPath="$PROJECT_DIR$/Images/arrows/left_arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/arrows/Right-Arrow.png" afterPath="$PROJECT_DIR$/Images/arrows/right_arrow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/home/CCPHomeIllustration.png" afterPath="$PROJECT_DIR$/Images/home/cc_home_illustration.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/desktop.css" afterPath="$PROJECT_DIR$/css/desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/drawing/black_white_lillies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/drawing/brick_fire_connection.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/digital_art/dark_queen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/drawing/decay_bench.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/digital_art/haunted_ship.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/digital_art/paradise.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/digital_art/release.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/drawing/sketch04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/digital_art_08.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/digital_art_09.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/digital_art_10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/drawing_10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsiveMobile350.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsiveMobile480.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsiveSmTablet600.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsiveSmTablet800.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsiveTablet1024.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsiveTablet768.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/digital_art/barbed_logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/digital_art/dark_queen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/digital_art/haunted_ship.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/digital_art/paradise.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/digital_art/release.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/drawing/black_white_lillies.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/drawing/brick_fire_connection.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/drawing/decay_bench.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/drawing/sketch04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/home/cc_home_illustration.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/Arrows/left_arrow.png" afterPath="$PROJECT_DIR$/img/arrows/left_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/Arrows/right_arrow.png" afterPath="$PROJECT_DIR$/img/arrows/right_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/Background/Carin-Camen-Portfolio.jpg" afterPath="$PROJECT_DIR$/img/bcg/Carin-Camen-Portfolio.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/Background/cc_background02.jpg" afterPath="$PROJECT_DIR$/img/bcg/cc_background02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/Background/cc_background03.jpg" afterPath="$PROJECT_DIR$/img/bcg/cc_background03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/digital_art/broken.jpg" afterPath="$PROJECT_DIR$/img/digital_art/broken.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/digital_art/christmas_room.jpg" afterPath="$PROJECT_DIR$/img/digital_art/christmas_room.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/digital_art/heart_mind.jpg" afterPath="$PROJECT_DIR$/img/digital_art/heart_mind.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/digital_art/ltu_cover.jpg" afterPath="$PROJECT_DIR$/img/digital_art/ltu_cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/digital_art/snowflake.jpg" afterPath="$PROJECT_DIR$/img/digital_art/snowflake.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/lone_tree.jpg" afterPath="$PROJECT_DIR$/img/drawing/lone_tree.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/sketch01.jpg" afterPath="$PROJECT_DIR$/img/drawing/sketch01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/sketch02.jpg" afterPath="$PROJECT_DIR$/img/drawing/sketch02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/sketch03.jpg" afterPath="$PROJECT_DIR$/img/drawing/sketch03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/sketch05.jpg" afterPath="$PROJECT_DIR$/img/drawing/sketch05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/sketch06.jpg" afterPath="$PROJECT_DIR$/img/drawing/sketch06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/sketch07.jpg" afterPath="$PROJECT_DIR$/img/drawing/sketch07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/drawing/water_tower_chicago.jpg" afterPath="$PROJECT_DIR$/img/drawing/water_tower_chicago.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/fashion_design/devinci.jpg" afterPath="$PROJECT_DIR$/img/fashion_design/devinci.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/fashion_design/leaf_texture_set.jpg" afterPath="$PROJECT_DIR$/img/fashion_design/leaf_texture_set.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/fashion_design/round_texture_set.jpg" afterPath="$PROJECT_DIR$/img/fashion_design/round_texture_set.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/fashion_design/silver_texture_set.jpg" afterPath="$PROJECT_DIR$/img/fashion_design/silver_texture_set.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/fashion_design/white.jpg" afterPath="$PROJECT_DIR$/img/fashion_design/white.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/painting/fall_morning.jpg" afterPath="$PROJECT_DIR$/img/painting/fall_morning.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/painting/possibilities.jpg" afterPath="$PROJECT_DIR$/img/painting/possibilities.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/painting/spring_mountain.jpg" afterPath="$PROJECT_DIR$/img/painting/spring_mountain.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/painting/tranquility.jpg" afterPath="$PROJECT_DIR$/img/painting/tranquility.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/painting/winter_river.jpg" afterPath="$PROJECT_DIR$/img/painting/winter_river.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/painting/within.jpg" afterPath="$PROJECT_DIR$/img/painting/within.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/desktop.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_01.html" afterPath="$PROJECT_DIR$/pages/digital_art_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_02.html" afterPath="$PROJECT_DIR$/pages/digital_art_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_03.html" afterPath="$PROJECT_DIR$/pages/digital_art_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_04.html" afterPath="$PROJECT_DIR$/pages/digital_art_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_05.html" afterPath="$PROJECT_DIR$/pages/digital_art_05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_06.html" afterPath="$PROJECT_DIR$/pages/digital_art_06.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/digital_art_07.html" afterPath="$PROJECT_DIR$/pages/digital_art_07.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_01.html" afterPath="$PROJECT_DIR$/pages/drawing_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_02.html" afterPath="$PROJECT_DIR$/pages/drawing_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_03.html" afterPath="$PROJECT_DIR$/pages/drawing_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_04.html" afterPath="$PROJECT_DIR$/pages/drawing_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_05.html" afterPath="$PROJECT_DIR$/pages/drawing_05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_06.html" afterPath="$PROJECT_DIR$/pages/drawing_06.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_07.html" afterPath="$PROJECT_DIR$/pages/drawing_07.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_08.html" afterPath="$PROJECT_DIR$/pages/drawing_08.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drawing_09.html" afterPath="$PROJECT_DIR$/pages/drawing_09.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fashion_design_01.html" afterPath="$PROJECT_DIR$/pages/fashion_design_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fashion_design_02.html" afterPath="$PROJECT_DIR$/pages/fashion_design_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fashion_design_03.html" afterPath="$PROJECT_DIR$/pages/fashion_design_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fashion_design_04.html" afterPath="$PROJECT_DIR$/pages/fashion_design_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fashion_design_05.html" afterPath="$PROJECT_DIR$/pages/fashion_design_05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nav.html" afterPath="$PROJECT_DIR$/pages/nav.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/painting_01.html" afterPath="$PROJECT_DIR$/pages/painting_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/painting_02.html" afterPath="$PROJECT_DIR$/pages/painting_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/painting_03.html" afterPath="$PROJECT_DIR$/pages/painting_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/painting_04.html" afterPath="$PROJECT_DIR$/pages/painting_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/painting_05.html" afterPath="$PROJECT_DIR$/pages/painting_05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/painting_06.html" afterPath="$PROJECT_DIR$/pages/painting_06.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Carin-Camen-Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -165,81 +114,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="responsiveMobile350.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsiveMobile350.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="5055">
+              <caret line="8" column="56" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27915633" vertical-offset="0" max-vertical-offset="6705">
+              <caret line="15" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8194946" vertical-offset="39" max-vertical-offset="870">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1095">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digital_art_01.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_01.html">
+      <file leaf-file-name="responsiveMobile480.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsiveMobile480.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="5175">
+              <caret line="8" column="56" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digital_art_02.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_02.html">
+      <file leaf-file-name="responsiveSmTablet600.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsiveSmTablet600.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
-              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="3915">
+              <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digital_art_03.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_03.html">
+      <file leaf-file-name="responsiveSmTablet800.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsiveSmTablet800.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="3945">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digital_art_04.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_04.html">
+      <file leaf-file-name="responsiveTablet768.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsiveTablet768.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="542" max-vertical-offset="3780">
+              <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digital_art_05.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_05.html">
+      <file leaf-file-name="responsiveTablet1024.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/responsiveTablet1024.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4245">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="digital_art_06.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_06.html">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="digital_art_07.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digital_art_07.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -258,28 +217,63 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/digital_art_07.html" />
-        <option value="$PROJECT_DIR$/painting_01.html" />
-        <option value="$PROJECT_DIR$/painting_02.html" />
-        <option value="$PROJECT_DIR$/painting_04.html" />
-        <option value="$PROJECT_DIR$/painting_05.html" />
-        <option value="$PROJECT_DIR$/painting_06.html" />
-        <option value="$PROJECT_DIR$/painting_03.html" />
-        <option value="$PROJECT_DIR$/drawing_09.html" />
-        <option value="$PROJECT_DIR$/drawing_08.html" />
-        <option value="$PROJECT_DIR$/drawing_07.html" />
-        <option value="$PROJECT_DIR$/drawing_01.html" />
-        <option value="$PROJECT_DIR$/drawing_02.html" />
-        <option value="$PROJECT_DIR$/drawing_03.html" />
-        <option value="$PROJECT_DIR$/drawing_04.html" />
-        <option value="$PROJECT_DIR$/drawing_05.html" />
-        <option value="$PROJECT_DIR$/drawing_06.html" />
+        <option value="$PROJECT_DIR$/fashion_design_05.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/responsiveTablet.css" />
+        <option value="$PROJECT_DIR$/css/responsiveMobile.css" />
+        <option value="$PROJECT_DIR$/css/responsiveSmTablet.css" />
+        <option value="$PROJECT_DIR$/css/main.js" />
+        <option value="$PROJECT_DIR$/css/responsiveTablet.css" />
+        <option value="$PROJECT_DIR$/css/responsiveTablet800.css" />
+        <option value="$PROJECT_DIR$/responsiveSmTablet800.css" />
+        <option value="$PROJECT_DIR$/css/responsiveTablet768.css" />
+        <option value="$PROJECT_DIR$/css/responsiveSmTablet600.css" />
+        <option value="$PROJECT_DIR$/css/responsiveSmTablet800.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/responsiveTablet1024.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/responsiveMobile480.css" />
+        <option value="$PROJECT_DIR$/pages/digital_art_01.html" />
+        <option value="$PROJECT_DIR$/css/responsiveMobile320.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_02.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_03.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_04.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_05.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_06.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_07.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_08.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_09.html" />
+        <option value="$PROJECT_DIR$/pages/digital_art_10.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_01.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_02.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_03.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_04.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_05.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_06.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_07.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_08.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_09.html" />
+        <option value="$PROJECT_DIR$/pages/drawing_10.html" />
+        <option value="$PROJECT_DIR$/pages/fashion_design_01.html" />
+        <option value="$PROJECT_DIR$/pages/fashion_design_02.html" />
+        <option value="$PROJECT_DIR$/pages/fashion_design_03.html" />
+        <option value="$PROJECT_DIR$/pages/fashion_design_04.html" />
+        <option value="$PROJECT_DIR$/pages/fashion_design_05.html" />
+        <option value="$PROJECT_DIR$/pages/nav.html" />
+        <option value="$PROJECT_DIR$/pages/painting_01.html" />
+        <option value="$PROJECT_DIR$/pages/painting_02.html" />
+        <option value="$PROJECT_DIR$/pages/painting_03.html" />
+        <option value="$PROJECT_DIR$/pages/painting_04.html" />
+        <option value="$PROJECT_DIR$/pages/painting_05.html" />
+        <option value="$PROJECT_DIR$/pages/painting_06.html" />
+        <option value="$PROJECT_DIR$/css/responsiveMobile350.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="133" />
-    <option name="y" value="36" />
+    <option name="x" value="522" />
+    <option name="y" value="77" />
     <option name="width" value="1433" />
     <option name="height" value="975" />
   </component>
@@ -309,7 +303,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -338,7 +331,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Images" />
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -352,11 +345,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Images" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carin_camen_portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="digital_art" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_1.11.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carin-Camen-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carin_camen_portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,28 +397,84 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Images/digital_art" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/img/logo" />
       <recent name="$PROJECT_DIR$/pages" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Pages" />
+      <recent name="$PROJECT_DIR$/Images/digital_art" />
     </key>
   </component>
-  <component name="RunManager">
-    <list size="0" />
+  <component name="RunManager" selected="JavaScript Debug.nav.html">
+    <configuration default="false" name="nav.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:63342/Carin-Camen-Portfolio/pages/nav.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.nav.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.nav.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" myUseAcceleration="nothing">
@@ -411,20 +488,40 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="36" width="1433" height="975" extended-state="0" />
-    <editor active="false" />
+    <frame x="522" y="77" width="1433" height="975" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24773203" sideWeight="0.6706444" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24716714" sideWeight="0.6706444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990665" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -433,6 +530,25 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990665" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24716714" sideWeight="0.6706444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -454,250 +570,350 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/drawing/water_tower_chicago.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/drawing/sketch04.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="345">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bcg/ccPort_bcg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo/cc_portfolio-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrows/left_arrow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/digital_art/broken.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/drawing/sketch08.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/drawing/sketch10.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/drawing/sketch09.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1290">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/drawing_10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/fashion_design_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/fashion_design_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/fashion_design_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/fashion_design_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/painting_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/painting_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1666665" vertical-offset="77" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/painting_05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/painting_06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11111111" vertical-offset="137" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/painting_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/painting_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18939394" vertical-offset="75" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/digital_art_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1320">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/fashion_design_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1335">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveMobile350.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5055">
+          <caret line="8" column="56" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveMobile480.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5175">
+          <caret line="8" column="56" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveSmTablet600.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915">
+          <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveSmTablet800.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="3945">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveTablet768.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3780">
+          <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveTablet1024.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4245">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="870">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_01.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_07.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="870">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_07.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_08.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="0">
-          <caret line="20" column="124" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_07.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80665815" vertical-offset="0" max-vertical-offset="0">
-          <caret line="42" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3841229" vertical-offset="0" max-vertical-offset="0">
-          <caret line="20" column="124" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13200498" vertical-offset="0" max-vertical-offset="0">
-          <caret line="20" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16811955" vertical-offset="0" max-vertical-offset="0">
-          <caret line="20" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31755915" vertical-offset="0" max-vertical-offset="0">
-          <caret line="17" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28019926" vertical-offset="0" max-vertical-offset="0">
-          <caret line="18" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawing_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3362391" vertical-offset="0" max-vertical-offset="0">
-          <caret line="18" column="132" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_07.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/digital_art_02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="990">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8194946" vertical-offset="39" max-vertical-offset="870">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27915633" vertical-offset="0" max-vertical-offset="6705">
+          <caret line="15" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
